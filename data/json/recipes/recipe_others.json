@@ -2041,7 +2041,7 @@
     "difficulty": 1,
     "time": "6 m",
     "autolearn": true,
-    "components": [ [ [ "dogbane", 1 ], [ "cattail_stalk", 1 ] ] ]
+    "components": [ [ [ "dogbane", 1 ], [ "cattail_stalk", 1 ], [ "willowbark", 2 ], [ "birchbark", 2 ], [ "alder_bark", 2 ], [ "tanbark", 2] ] ]
   },
   {
     "type": "recipe",
