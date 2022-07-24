@@ -140,6 +140,16 @@
     "text": "Ate meat"
   },
   {
+    "id": "morale_antivegetable",
+    "type": "morale_type",
+    "text": "Ate vegetables"
+  },
+  {
+    "id": "morale_antimeat",
+    "type": "morale_type",
+    "text": "Ate meat"
+  },
+  {
     "id": "morale_antifruit",
     "type": "morale_type",
     "text": "Ate fruit"
